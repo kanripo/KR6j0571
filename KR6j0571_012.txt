@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:16.706734
+#+DATE: 2015-08-30 20:35:22.457009
 #+TITLE: 大威德陀羅尼經
 #+PROPERTY: CBETA_ID T21n1341
 #+PROPERTY: ID KR6j0571
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1341
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6j0571_T_012-0805c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
-
- 大威德陀羅尼經卷第十二¶
+大威德陀羅尼經卷第十二¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -103,7 +102,7 @@
 彼天生二十種分別。復次於彼三摩耶時。若¶
 有空行諸比丘等。於四禪中而得自在。彼從¶
 禪起已。是諸天等於面門中。示現面像即生¶
-羨樂。譬如阿難陀渠比丘。何以故。如空行¶
+羡樂。譬如阿難陀渠比丘。何以故。如空行¶
 想者如是欲想。彼則不可名空行者。何以故。¶
 誰空想者如是欲想。彼不可名名空行者。何¶
 以故。若我如是生心。彼亦如是心生。是名¶

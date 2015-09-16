@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:16.838800
+#+DATE: 2015-08-30 20:35:22.598206
 #+TITLE: 大威德陀羅尼經
 #+PROPERTY: CBETA_ID T21n1341
 #+PROPERTY: ID KR6j0571
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1341
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6j0571_T_017-0824a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 17
 ¶
 ¶
-
- 大威德陀羅尼經卷第十七¶
+大威德陀羅尼經卷第十七¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -77,7 +76,7 @@
 摩訶羅也。彼無此法故。故當生大熱惱地獄¶
 之中。阿難。又何因緣言摩訶羅也。以彼具足¶
 作摩訶羅法故名摩訶羅也。何者作摩訶羅¶
-法。摩訶羅法有五種何等為五。於苦行處懶¶
+法。摩訶羅法有五種何等為五。於苦行處[悚*頁]¶
 惰懈怠被他訶責。摩訶羅惡戾眼視瞬。摩訶¶
 羅橫有語言不作正說。摩訶羅蹲坐低頭。摩
 <pb:KR6j0571_T_017-0825a>¶
