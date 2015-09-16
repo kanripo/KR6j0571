@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:16.619523
+#+DATE: 2015-08-30 20:35:18.609669
 #+TITLE: 大威德陀羅尼經
 #+PROPERTY: CBETA_ID T21n1341
 #+PROPERTY: ID KR6j0571
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1341
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6j0571_T_009-0794b> ¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 大威德陀羅尼經卷第九¶
+大威德陀羅尼經卷第九¶
 ¶
 隋北印度三藏闍那崛多譯¶
 

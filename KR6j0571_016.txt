@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:16.809820
+#+DATE: 2015-08-30 20:35:18.761415
 #+TITLE: 大威德陀羅尼經
 #+PROPERTY: CBETA_ID T21n1341
 #+PROPERTY: ID KR6j0571
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1341
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6j0571_T_016-0819a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 大威德陀羅尼經卷第十六¶
+大威德陀羅尼經卷第十六¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -384,7 +383,7 @@
 本。一向舞戲及造賊行。是為破戒。一向決¶
 定烏羅羅耶。是為破戒(烏羅羅耶者謂一向念種種戲樂)一向¶
 決定謨陀茶磨。是為破戒(謂一向作樂遊戲也)一向決定¶
-波𠻬彌囉伽。是為破戒(謂處處求衣)一向決定烏¶
+波[口*荼]彌囉伽。是為破戒(謂處處求衣)一向決定烏¶
 迦邏哆毘奢囉。是為破戒(謂一向執著外道心廣邊作之)一向¶
 求覓種種雜物。是為破戒。此等十種為破戒。¶
 佛告阿難。何者是無諍義。言無諍義者。是¶
