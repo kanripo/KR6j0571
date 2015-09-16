@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大威德陀羅尼經
+#+DATE: 2015-08-30 20:35:17.323561
+#+PROPERTY: JUAN 0
