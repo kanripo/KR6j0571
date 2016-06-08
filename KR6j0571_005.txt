@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:18.507445
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:31
 #+TITLE: 大威德陀羅尼經
 #+PROPERTY: CBETA_ID T21n1341
 #+PROPERTY: ID KR6j0571
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1341
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6j0571_T_005-0774a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
@@ -237,7 +237,7 @@
 者。捔治罰故。而說呪曰。¶
 
 寫地夜梯曇(一)冊地末帝(二)比盧迦婆帝(三)波¶
-羅呵哆(四)迦吒[木*奈]哆(五)捺哆末帝(六)比伽(七)比蒱¶
+羅呵哆(四)迦吒㮈哆(五)捺哆末帝(六)比伽(七)比蒱¶
 哆婆帝(八)野荼(九)計邏帝(十)比利哂提(十一)訢¶
 具虱嚌(十二)佛提(十三)佛陀末帝(十四)壹都彌(十¶
 五)脯利婆簸囉呵梨(十六)阿知多佛陀(十七)阿¶

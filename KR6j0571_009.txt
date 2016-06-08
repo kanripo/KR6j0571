@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:18.609669
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:31
 #+TITLE: 大威德陀羅尼經
 #+PROPERTY: CBETA_ID T21n1341
 #+PROPERTY: ID KR6j0571
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1341
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6j0571_T_009-0794b> ¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
@@ -282,9 +282,9 @@
 　若順於毘尼
 　入於境界處¶
 　能住戒聚中
-　當得脫諸縛
+　當得脫諸縛」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊為彼長者比丘。廣說苦聖諦令得¶
 安住。開示顯揚分別廣演言教。正說苦諦苦¶
