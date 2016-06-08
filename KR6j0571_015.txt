@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:16.782222
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:31
 #+TITLE: 大威德陀羅尼經
 #+PROPERTY: CBETA_ID T21n1341
 #+PROPERTY: ID KR6j0571
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1341
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0571_T_015-0815b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 大威德陀羅尼經卷第十五¶
+大威德陀羅尼經卷第十五¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -291,7 +290,7 @@
 四十由旬。彼一銅盤不令墮地。如是如是。大¶
 鐵圍山彼諸風吹擲置彼處。從於彼處擲置¶
 此處。阿難。彼諸風上於虛空中。復有諸風¶
-名曰阿鳩羅迦羅(隋言作亂)。其作亂風上虛空中。¶
+名曰阿鳩羅迦羅(隋言＝云【宋】【元】＊言言作亂)。其作亂風上虛空中。¶
 復有諸風名曰上行。阿難。彼上行諸風。高七
 <pb:KR6j0571_T_015-0818c>¶
 十一百千俱致由旬。其上行諸風上虛空中。¶

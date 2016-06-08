@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:16.396099
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:31
 #+TITLE: 大威德陀羅尼經
 #+PROPERTY: CBETA_ID T21n1341
 #+PROPERTY: ID KR6j0571
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1341
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0571_T_001-0755a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1341¶
-
- 大威德陀羅尼經卷第一¶
+No. 1341¶
+大威德陀羅尼經卷第一¶
 ¶
 隋北印度三藏闍那崛多譯¶
 
@@ -266,9 +265,9 @@ No.1341¶
 　諸想皆滅已
 　法想亦復然¶
 　不取亦不捨
-　是上丈夫說
+　是上丈夫說」
 #+END_VERSE
-」¶
+¶
 
 阿難。此等六十眾生舍婆提住者。皆於往昔¶
 迦葉佛所。諸聲聞人供養佛已。於後復作非¶

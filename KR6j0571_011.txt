@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:16.675746
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:31
 #+TITLE: 大威德陀羅尼經
 #+PROPERTY: CBETA_ID T21n1341
 #+PROPERTY: ID KR6j0571
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1341
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0571_T_011-0801c> 
 #+PROPERTY: JUAN 11
 ¶
-
- 大威德陀羅尼經卷第十一¶
+大威德陀羅尼經卷第十一¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -262,8 +261,7 @@
 於中有幾種食。有幾種依倚。有幾種持。有幾¶
 種無畏世間。有幾種智。何者是第一義。所言¶
 智聚有幾聚相。所言智慧何者智聚何者聚。¶
-應知智者。若以煩惱若以盡智。有幾盡智俱¶
-致百相。不攝諸法中。於阿字不合中。彼以阿¶
+應知智者。若以煩惱若以盡智。有幾盡智俱致百相。不攝諸法中。於阿字不合中。彼以阿¶
 字應當合以百俱致。阿字與囉字合。所有囉¶
 字而不合處。彼即盡相是名盡智。彼所分別¶
 是為盡智。以寂靜法我等當攝。亦非如言說¶

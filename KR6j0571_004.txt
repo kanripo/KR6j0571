@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:16.470907
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:31
 #+TITLE: 大威德陀羅尼經
 #+PROPERTY: CBETA_ID T21n1341
 #+PROPERTY: ID KR6j0571
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1341
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0571_T_004-0768c> 
 #+PROPERTY: JUAN 4
 ¶
-
- 大威德陀羅尼經卷第四¶
+大威德陀羅尼經卷第四¶
 ¶
 隋北印度三藏闍那崛多譯¶
 
@@ -116,8 +115,7 @@
 阿婆車度　烏奢伽摩　因陀盧遮那摩伽馱¶
 陀(隋言能與道)　毘彼式迦(隋言能觀)　阿隷數帝利師那制¶
 地迦(隋言能斷渴愛)　多摩制地迦(能斷暗)　阿鞠六波(不瞋)　跋¶
-陀羅(賢)　賀羅迦叉毘帝(守護主)　迦羅度叉音(語諳反隋¶
-言時無畏)　婆祁羅(金剛)　毘須尼帝尼尸波羅般遮(不可說)¶
+陀羅(賢)　賀羅迦叉毘帝(守護主)　迦羅度叉音(語諳反隋言時無畏)　婆祁羅(金剛)　毘須尼帝尼尸波羅般遮(不可說)¶
 　帝栗他(福處)　何勒叉(守護)　阿摩陀(不醉)　阿鉢羅¶
 　摩陀(不放逸)不由他能觀割斷教示無疑不分別¶
 　帝醯　尼師鉢利耶跋陀那盡印　何波¶
