@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:16.589068
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:31
 #+TITLE: 大威德陀羅尼經
 #+PROPERTY: CBETA_ID T21n1341
 #+PROPERTY: ID KR6j0571
